@@ -2,12 +2,11 @@
 
 RocketLander gym (OpenAI) solution through Double Deep Q Network
 
-This folder contains the code for the AML project of:
 Quentin BB
 Alexis M
 Paul W
 
-We worked on Rocket and Lunar Landers.
+Rocket and Lunar Landers solutions.
 
 To run our agents you need to install pybox2d and use the gym toolkit with the
 extra environment RocketLander.
